@@ -1,25 +1,25 @@
 ### Travel Buddy
-Use Travel Buddy to create memorable trips with your friends or family without the hassle of coordinating over multiple apps.
+Travel Buddy is a web application that can help you create memorable trips with your friends or family without the hassle of coordinating over multiple apps. By incorporating AI-driven recommendations and collaborative features, you can seamlessly coordinate your upcoming journey with loved ones.
 
 ## Features
 
-- Create your trip
+#### Create your trip
 !['Create your trip'](https://github.com/natashachiu/travel-buddy/blob/main/screenshots/create-trip.png?raw=true)
 
-- Explore and add places from the map onto your lists.
+#### Explore places and add points of interest into your lists.
 !['Add to places'](https://github.com/natashachiu/travel-buddy/blob/main/screenshots/explore-places.png?raw=true)
 
-- Don't know where to start? Ask our assistant for suggestions.
+#### Ask our AI assistant for suggestions.
 !['Ask for suggestions'](https://github.com/natashachiu/travel-buddy/blob/main/screenshots/assistant-prompt.png?raw=true)
 !['Assistant reply'](https://github.com/natashachiu/travel-buddy/blob/main/screenshots/assistant-reply.png?raw=true)
 
-- Chat with your friends about your trip.
+#### Chat with your friends about your trip in real time.
 !['Chat'](https://github.com/natashachiu/travel-buddy/blob/main/screenshots/chat.png?raw=true)
 
 ## Stack
-- Frontend: React, Tailwind CSS
-- Backend: Express, Node, PostgreSQL, Socket.io
-- APIs: Google's Maps and Places API, Open AI API 
+**Frontend:** React, Tailwind CSS
+**Backend:** Express, Node, PostgreSQL, Socket.io
+**APIs:** Google's Maps API, Places API, Open AI API 
 
 ## Setup
 You need two terminal windows/tabs for this (or some other plan for running two Node processes).
